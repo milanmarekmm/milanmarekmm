@@ -33,20 +33,6 @@ A focused redesign moved activation from **0 → ~60%**.
 
 </td><td width="50%" valign="top">
 
-### ▲ Citováno.ai
-**Human-in-the-loop support agent**
-
-The agent answers what it can, detects when a question actually needs a person (pricing),
-posts a structured summary into Telegram, then delivers the human's `/reply` back to the
-customer.
-
-Built as a live assignment — the team was testing it in production chat the same week.
-
-`Claude` `Cloudflare D1` `Telegram Bot API`
-
-</td></tr>
-<tr><td width="50%" valign="top">
-
 ### ▲ Marketing sites @ ON BOARD
 **Next.js App Router rebuilds**
 
@@ -55,16 +41,6 @@ consent-gated analytics. Content lives in data files so non-developers can chang
 without touching a component.
 
 `Next.js` `TypeScript` `Drizzle` `PostHog`
-
-</td><td width="50%" valign="top">
-
-### ▲ Product configurator
-**B2C multi-step configurator**
-
-A rewrite of a legacy WordPress configurator into a standalone app — pulls product data over
-REST, renders live previews, and hands a finished spec to sales.
-
-`React` `REST` `WordPress` `Vercel`
 
 </td></tr>
 </table>
@@ -95,7 +71,7 @@ REST, renders live previews, and hands a finished spec to sales.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a12?style=for-the-badge&logo=linkedin&logoColor=60a5fa&labelColor=0a0a12)](https://www.linkedin.com/in/milan-marek-a5b78b390) [![Kcalori](https://img.shields.io/badge/kcalori.cz-0a0a12?style=for-the-badge&logo=safari&logoColor=22d3ee&labelColor=0a0a12)](https://kcalori.cz) [![GitHub](https://img.shields.io/badge/@milanmarekmm-0a0a12?style=for-the-badge&logo=github&logoColor=f0abfc&labelColor=0a0a12)](https://github.com/milanmarekmm)
+<a href="https://www.linkedin.com/in/milan-marek-a5b78b390"><img src="assets/link-linkedin.svg" alt="LinkedIn" height="46"></a>&nbsp;&nbsp;<a href="https://kcalori.cz"><img src="assets/link-kcalori.svg" alt="kcalori.cz" height="46"></a>
 
 </div>
 
