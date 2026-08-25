@@ -122,7 +122,7 @@ The interesting engineering isn't the prompt. It's everything wrapped around it.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/milan-marek-a5b78b390">
+<a href="https://www.linkedin.com/in/milanmarekmm">
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="assets/chip-linkedin-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/chip-linkedin-light.svg">
