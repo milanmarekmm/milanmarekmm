@@ -1,0 +1,191 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250" role="img"
+     aria-label="Milan Marek — AI and Product Developer, Prague, Czechia">
+  <title>Milan Marek — AI &amp; Product Developer · Prague, Czechia</title>
+  <defs>
+    
+  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+    <circle cx="1" cy="1" r="1" fill="#1E2739" opacity=".55"/>
+  </pattern>
+    
+  <radialGradient id="o1">
+    <stop offset="0" stop-color="#A78BFA" stop-opacity=".34"/>
+    <stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="o2">
+    <stop offset="0" stop-color="#22D3EE" stop-opacity=".34"/>
+    <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="o3">
+    <stop offset="0" stop-color="#F472B6" stop-opacity=".34"/>
+    <stop offset="1" stop-color="#F472B6" stop-opacity="0"/>
+  </radialGradient>
+    
+  <linearGradient id="flow" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="460" y2="0" spreadMethod="repeat">
+    <stop offset="0"    stop-color="#A78BFA"/>
+    <stop offset="0.34" stop-color="#F472B6"/>
+    <stop offset="0.67" stop-color="#22D3EE"/>
+    <stop offset="1"    stop-color="#A78BFA"/>
+    <animateTransform attributeName="gradientTransform" type="translate"
+      values="0 0; 460 0" dur="9s" repeatCount="indefinite"/>
+  </linearGradient>
+    
+  <linearGradient id="rule" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="900" y2="0" spreadMethod="repeat">
+    <stop offset="0"    stop-color="#A78BFA"/>
+    <stop offset="0.34" stop-color="#F472B6"/>
+    <stop offset="0.67" stop-color="#22D3EE"/>
+    <stop offset="1"    stop-color="#A78BFA"/>
+    <animateTransform attributeName="gradientTransform" type="translate"
+      values="0 0; 900 0" dur="9s" repeatCount="indefinite"/>
+  </linearGradient>
+    <clipPath id="card"><rect x="1" y="1" width="898" height="248" rx="18"/></clipPath>
+  </defs>
+
+  <rect x=".5" y=".5" width="899" height="249" rx="18" fill="#0A0D14"/>
+  <g clip-path="url(#card)">
+    <rect width="900" height="250" fill="url(#grid)"/>
+    <ellipse cx="120" cy="40" rx="300" ry="190" fill="url(#o1)">
+      <animate attributeName="cx" values="120;250;120" dur="17s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="40;90;40"   dur="13s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="760" cy="210" rx="280" ry="180" fill="url(#o2)">
+      <animate attributeName="cx" values="760;640;760" dur="19s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="210;150;210" dur="15s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="470" cy="250" rx="240" ry="130" fill="url(#o3)">
+      <animate attributeName="cy" values="250;196;250" dur="21s" repeatCount="indefinite"/>
+    </ellipse>
+
+    <!-- neural constellation -->
+    <line x1="664" y1="74" x2="762" y2="50" stroke="#22D3EE" stroke-width="1.1" opacity=".30">
+      <animate attributeName="opacity" values=".30;0.51;.30" dur="4s"
+        begin="0.00s" repeatCount="indefinite"/></line>
+    <line x1="762" y1="50" x2="848" y2="100" stroke="#22D3EE" stroke-width="1.1" opacity=".30">
+      <animate attributeName="opacity" values=".30;0.51;.30" dur="4.7s"
+        begin="0.31s" repeatCount="indefinite"/></line>
+    <line x1="664" y1="74" x2="700" y2="136" stroke="#22D3EE" stroke-width="1.1" opacity=".30">
+      <animate attributeName="opacity" values=".30;0.51;.30" dur="5.4s"
+        begin="0.62s" repeatCount="indefinite"/></line>
+    <line x1="762" y1="50" x2="796" y2="128" stroke="#22D3EE" stroke-width="1.1" opacity=".30">
+      <animate attributeName="opacity" values=".30;0.51;.30" dur="6.1s"
+        begin="0.93s" repeatCount="indefinite"/></line>
+    <line x1="848" y1="100" x2="796" y2="128" stroke="#22D3EE" stroke-width="1.1" opacity=".30">
+      <animate attributeName="opacity" values=".30;0.51;.30" dur="6.8s"
+        begin="1.24s" repeatCount="indefinite"/></line>
+    <line x1="700" y1="136" x2="796" y2="128" stroke="#22D3EE" stroke-width="1.1" opacity=".30">
+      <animate attributeName="opacity" values=".30;0.51;.30" dur="4s"
+        begin="1.55s" repeatCount="indefinite"/></line>
+    <line x1="700" y1="136" x2="658" y2="194" stroke="#22D3EE" stroke-width="1.1" opacity=".30">
+      <animate attributeName="opacity" values=".30;0.51;.30" dur="4.7s"
+        begin="1.86s" repeatCount="indefinite"/></line>
+    <line x1="796" y1="128" x2="752" y2="210" stroke="#22D3EE" stroke-width="1.1" opacity=".30">
+      <animate attributeName="opacity" values=".30;0.51;.30" dur="5.4s"
+        begin="2.17s" repeatCount="indefinite"/></line>
+    <line x1="796" y1="128" x2="844" y2="180" stroke="#22D3EE" stroke-width="1.1" opacity=".30">
+      <animate attributeName="opacity" values=".30;0.51;.30" dur="6.1s"
+        begin="2.48s" repeatCount="indefinite"/></line>
+    <line x1="658" y1="194" x2="752" y2="210" stroke="#22D3EE" stroke-width="1.1" opacity=".30">
+      <animate attributeName="opacity" values=".30;0.51;.30" dur="6.8s"
+        begin="2.79s" repeatCount="indefinite"/></line>
+    <line x1="752" y1="210" x2="844" y2="180" stroke="#22D3EE" stroke-width="1.1" opacity=".30">
+      <animate attributeName="opacity" values=".30;0.51;.30" dur="4s"
+        begin="3.10s" repeatCount="indefinite"/></line>
+    <line x1="848" y1="100" x2="844" y2="180" stroke="#22D3EE" stroke-width="1.1" opacity=".30">
+      <animate attributeName="opacity" values=".30;0.51;.30" dur="4.7s"
+        begin="3.41s" repeatCount="indefinite"/></line>
+    <line x1="664" y1="74" x2="796" y2="128" stroke="#22D3EE" stroke-width="1.1" opacity=".30">
+      <animate attributeName="opacity" values=".30;0.51;.30" dur="5.4s"
+        begin="3.72s" repeatCount="indefinite"/></line>
+    <g>
+      <circle cx="664" cy="74" r="9" fill="none" stroke="#22D3EE" stroke-width="1" opacity=".5">
+        <animate attributeName="r" values="6;13;6" dur="3.4s" begin="0.00s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values=".5;0;.5" dur="3.4s" begin="0.00s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="664" cy="74" r="3.4" fill="#22D3EE"/>
+    </g>
+    <g>
+      <circle cx="762" cy="50" r="9" fill="none" stroke="#A78BFA" stroke-width="1" opacity=".5">
+        <animate attributeName="r" values="6;13;6" dur="3.6799999999999997s" begin="0.40s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values=".5;0;.5" dur="3.6799999999999997s" begin="0.40s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="762" cy="50" r="3.4" fill="#A78BFA"/>
+    </g>
+    <g>
+      <circle cx="848" cy="100" r="9" fill="none" stroke="#22D3EE" stroke-width="1" opacity=".5">
+        <animate attributeName="r" values="6;13;6" dur="3.96s" begin="0.80s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values=".5;0;.5" dur="3.96s" begin="0.80s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="848" cy="100" r="3.4" fill="#22D3EE"/>
+    </g>
+    <g>
+      <circle cx="700" cy="136" r="9" fill="none" stroke="#A78BFA" stroke-width="1" opacity=".5">
+        <animate attributeName="r" values="6;13;6" dur="4.24s" begin="1.20s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values=".5;0;.5" dur="4.24s" begin="1.20s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="700" cy="136" r="3.4" fill="#A78BFA"/>
+    </g>
+    <g>
+      <circle cx="796" cy="128" r="9" fill="none" stroke="#22D3EE" stroke-width="1" opacity=".5">
+        <animate attributeName="r" values="6;13;6" dur="4.52s" begin="1.60s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values=".5;0;.5" dur="4.52s" begin="1.60s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="796" cy="128" r="3.4" fill="#22D3EE"/>
+    </g>
+    <g>
+      <circle cx="658" cy="194" r="9" fill="none" stroke="#A78BFA" stroke-width="1" opacity=".5">
+        <animate attributeName="r" values="6;13;6" dur="4.8s" begin="2.00s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values=".5;0;.5" dur="4.8s" begin="2.00s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="658" cy="194" r="3.4" fill="#A78BFA"/>
+    </g>
+    <g>
+      <circle cx="752" cy="210" r="9" fill="none" stroke="#22D3EE" stroke-width="1" opacity=".5">
+        <animate attributeName="r" values="6;13;6" dur="5.08s" begin="2.40s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values=".5;0;.5" dur="5.08s" begin="2.40s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="752" cy="210" r="3.4" fill="#22D3EE"/>
+    </g>
+    <g>
+      <circle cx="844" cy="180" r="9" fill="none" stroke="#A78BFA" stroke-width="1" opacity=".5">
+        <animate attributeName="r" values="6;13;6" dur="5.36s" begin="2.80s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values=".5;0;.5" dur="5.36s" begin="2.80s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="844" cy="180" r="3.4" fill="#A78BFA"/>
+    </g>
+    <circle r="2.6" fill="#F472B6" opacity="0">
+      <animateMotion path="M 664 74 L 796 128 L 844 180" dur="5s" begin="0.0s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="5s" begin="0.0s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="2.6" fill="#F472B6" opacity="0">
+      <animateMotion path="M 762 50 L 796 128 L 752 210" dur="6.6s" begin="1.3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="6.6s" begin="1.3s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="2.6" fill="#F472B6" opacity="0">
+      <animateMotion path="M 700 136 L 796 128 L 848 100" dur="8.2s" begin="2.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="8.2s" begin="2.6s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- copy -->
+    <text x="52" y="72" font-family="ui-monospace,SFMono-Regular,'SF Mono','Cascadia Code','Roboto Mono',Menlo,Consolas,monospace" font-size="11.5" letter-spacing="3.1"
+          fill="#22D3EE" font-weight="600">AI &amp; PRODUCT DEVELOPER</text>
+
+    <text x="50" y="132" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,'Helvetica Neue',Arial,sans-serif" font-size="50" font-weight="800"
+          fill="url(#flow)" textLength="400" lengthAdjust="spacing">MILAN MAREK</text>
+
+    <text x="52" y="166" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,'Helvetica Neue',Arial,sans-serif" font-size="14.5" fill="#98A5B8">
+      I build small products end-to-end — schema, API, UI, deploy, store listing.</text>
+
+    <g transform="translate(52,190)">
+      <rect width="176" height="30" rx="15" fill="#151C2B" stroke="#1E2739"/>
+      <circle cx="17" cy="15" r="4" fill="#34D399">
+        <animate attributeName="opacity" values="1;.25;1" dur="2.2s" repeatCount="indefinite"/>
+      </circle>
+      <text x="30" y="19.5" font-family="ui-monospace,SFMono-Regular,'SF Mono','Cascadia Code','Roboto Mono',Menlo,Consolas,monospace" font-size="11" fill="#E9EFF8">open to work</text>
+    </g>
+    <g transform="translate(238,190)">
+      <rect width="150" height="30" rx="15" fill="#151C2B" stroke="#1E2739"/>
+      <text x="16" y="19.5" font-family="ui-monospace,SFMono-Regular,'SF Mono','Cascadia Code','Roboto Mono',Menlo,Consolas,monospace" font-size="11" fill="#98A5B8">Prague, Czechia</text>
+    </g>
+
+    <rect x="0" y="247" width="900" height="3" fill="url(#rule)"/>
+  </g>
+</svg>

@@ -1,0 +1,220 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="280" viewBox="0 0 900 280"
+     role="img" aria-label="Stack: TypeScript, JavaScript, Swift, PHP, SQL, Bash, Next.js, React, Tailwind, SwiftUI, Node.js, WordPress, PostgreSQL, Drizzle ORM, Cloudflare D1, SQLite, Claude API, MCP servers, Agent SDK, prompt eval, Vercel, Cloudflare, Docker, Linux VPS, PostHog">
+  <title>Stack</title>
+  <defs>
+    
+  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+    <circle cx="1" cy="1" r="1" fill="#DCE3ED" opacity=".75"/>
+  </pattern>
+    <linearGradient id="sheen" gradientUnits="userSpaceOnUse" x1="-260" y1="0" x2="0" y2="0">
+      <stop offset="0"  stop-color="#0D1626" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#0D1626" stop-opacity=".03"/>
+      <stop offset="1"  stop-color="#0D1626" stop-opacity="0"/>
+      <animateTransform attributeName="gradientTransform" type="translate"
+        values="0 0; 1200 0" dur="7s" repeatCount="indefinite"/>
+    </linearGradient>
+    <clipPath id="sc"><rect x="1" y="1" width="898" height="278" rx="14"/></clipPath>
+  </defs>
+  
+  <rect x="0.5" y="0.5" width="899" height="279" rx="14" fill="#FBFCFE"/>
+  <rect x="0.5" y="0.5" width="899" height="279" rx="14" fill="url(#grid)"/>
+  <rect x="1" y="1" width="898" height="278" rx="14" fill="none" stroke="#DCE3ED"/>
+  <text x="34" y="34" font-family="ui-monospace,SFMono-Regular,'SF Mono','Cascadia Code','Roboto Mono',Menlo,Consolas,monospace" font-size="11" letter-spacing="2.6"
+        fill="#64728C" font-weight="700">TOOLBOX</text>
+  
+    <text x="34" y="72" font-family="ui-monospace,SFMono-Regular,'SF Mono','Cascadia Code','Roboto Mono',Menlo,Consolas,monospace" font-size="10.5" letter-spacing="2"
+          font-weight="700" fill="#6D28D9">CORE</text>
+    <line x1="34" y1="82" x2="128" y2="82" stroke="#DCE3ED"/>
+    <g transform="translate(152,52)">
+        <rect width="109" height="30" rx="8" fill="#F1F4F9" stroke="#DCE3ED"/>
+        <circle cx="15" cy="15" r="3.6" fill="#6D28D9">
+          <animate attributeName="r" values="3.6;5.2;3.6" dur="3.0s"
+            begin="0.00s" repeatCount="indefinite"/></circle>
+        <text x="27" y="19.6" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,'Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#0D1626">TypeScript</text>
+      </g>
+    <g transform="translate(270,52)">
+        <rect width="109" height="30" rx="8" fill="#F1F4F9" stroke="#DCE3ED"/>
+        <circle cx="15" cy="15" r="3.6" fill="#6D28D9">
+          <animate attributeName="r" values="3.6;5.2;3.6" dur="3.6s"
+            begin="0.18s" repeatCount="indefinite"/></circle>
+        <text x="27" y="19.6" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,'Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#0D1626">JavaScript</text>
+      </g>
+    <g transform="translate(388,52)">
+        <rect width="74" height="30" rx="8" fill="#F1F4F9" stroke="#DCE3ED"/>
+        <circle cx="15" cy="15" r="3.6" fill="#6D28D9">
+          <animate attributeName="r" values="3.6;5.2;3.6" dur="4.2s"
+            begin="0.36s" repeatCount="indefinite"/></circle>
+        <text x="27" y="19.6" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,'Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#0D1626">Swift</text>
+      </g>
+    <g transform="translate(471,52)">
+        <rect width="61" height="30" rx="8" fill="#F1F4F9" stroke="#DCE3ED"/>
+        <circle cx="15" cy="15" r="3.6" fill="#6D28D9">
+          <animate attributeName="r" values="3.6;5.2;3.6" dur="4.8s"
+            begin="0.54s" repeatCount="indefinite"/></circle>
+        <text x="27" y="19.6" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,'Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#0D1626">PHP</text>
+      </g>
+    <g transform="translate(541,52)">
+        <rect width="61" height="30" rx="8" fill="#F1F4F9" stroke="#DCE3ED"/>
+        <circle cx="15" cy="15" r="3.6" fill="#6D28D9">
+          <animate attributeName="r" values="3.6;5.2;3.6" dur="3.0s"
+            begin="0.72s" repeatCount="indefinite"/></circle>
+        <text x="27" y="19.6" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,'Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#0D1626">SQL</text>
+      </g>
+    <g transform="translate(611,52)">
+        <rect width="67" height="30" rx="8" fill="#F1F4F9" stroke="#DCE3ED"/>
+        <circle cx="15" cy="15" r="3.6" fill="#6D28D9">
+          <animate attributeName="r" values="3.6;5.2;3.6" dur="3.6s"
+            begin="0.90s" repeatCount="indefinite"/></circle>
+        <text x="27" y="19.6" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,'Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#0D1626">Bash</text>
+      </g>
+
+    <text x="34" y="116" font-family="ui-monospace,SFMono-Regular,'SF Mono','Cascadia Code','Roboto Mono',Menlo,Consolas,monospace" font-size="10.5" letter-spacing="2"
+          font-weight="700" fill="#0E7490">BUILD</text>
+    <line x1="34" y1="126" x2="128" y2="126" stroke="#DCE3ED"/>
+    <g transform="translate(152,96)">
+        <rect width="88" height="30" rx="8" fill="#F1F4F9" stroke="#DCE3ED"/>
+        <circle cx="15" cy="15" r="3.6" fill="#0E7490">
+          <animate attributeName="r" values="3.6;5.2;3.6" dur="3.0s"
+            begin="1.08s" repeatCount="indefinite"/></circle>
+        <text x="27" y="19.6" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,'Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#0D1626">Next.js</text>
+      </g>
+    <g transform="translate(249,96)">
+        <rect width="74" height="30" rx="8" fill="#F1F4F9" stroke="#DCE3ED"/>
+        <circle cx="15" cy="15" r="3.6" fill="#0E7490">
+          <animate attributeName="r" values="3.6;5.2;3.6" dur="3.6s"
+            begin="1.26s" repeatCount="indefinite"/></circle>
+        <text x="27" y="19.6" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,'Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#0D1626">React</text>
+      </g>
+    <g transform="translate(332,96)">
+        <rect width="95" height="30" rx="8" fill="#F1F4F9" stroke="#DCE3ED"/>
+        <circle cx="15" cy="15" r="3.6" fill="#0E7490">
+          <animate attributeName="r" values="3.6;5.2;3.6" dur="4.2s"
+            begin="1.44s" repeatCount="indefinite"/></circle>
+        <text x="27" y="19.6" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,'Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#0D1626">Tailwind</text>
+      </g>
+    <g transform="translate(436,96)">
+        <rect width="88" height="30" rx="8" fill="#F1F4F9" stroke="#DCE3ED"/>
+        <circle cx="15" cy="15" r="3.6" fill="#0E7490">
+          <animate attributeName="r" values="3.6;5.2;3.6" dur="4.8s"
+            begin="1.62s" repeatCount="indefinite"/></circle>
+        <text x="27" y="19.6" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,'Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#0D1626">SwiftUI</text>
+      </g>
+    <g transform="translate(533,96)">
+        <rect width="88" height="30" rx="8" fill="#F1F4F9" stroke="#DCE3ED"/>
+        <circle cx="15" cy="15" r="3.6" fill="#0E7490">
+          <animate attributeName="r" values="3.6;5.2;3.6" dur="3.0s"
+            begin="1.80s" repeatCount="indefinite"/></circle>
+        <text x="27" y="19.6" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,'Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#0D1626">Node.js</text>
+      </g>
+    <g transform="translate(630,96)">
+        <rect width="102" height="30" rx="8" fill="#F1F4F9" stroke="#DCE3ED"/>
+        <circle cx="15" cy="15" r="3.6" fill="#0E7490">
+          <animate attributeName="r" values="3.6;5.2;3.6" dur="3.6s"
+            begin="1.98s" repeatCount="indefinite"/></circle>
+        <text x="27" y="19.6" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,'Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#0D1626">WordPress</text>
+      </g>
+
+    <text x="34" y="160" font-family="ui-monospace,SFMono-Regular,'SF Mono','Cascadia Code','Roboto Mono',Menlo,Consolas,monospace" font-size="10.5" letter-spacing="2"
+          font-weight="700" fill="#BE185D">DATA</text>
+    <line x1="34" y1="170" x2="128" y2="170" stroke="#DCE3ED"/>
+    <g transform="translate(152,140)">
+        <rect width="109" height="30" rx="8" fill="#F1F4F9" stroke="#DCE3ED"/>
+        <circle cx="15" cy="15" r="3.6" fill="#BE185D">
+          <animate attributeName="r" values="3.6;5.2;3.6" dur="3.0s"
+            begin="2.16s" repeatCount="indefinite"/></circle>
+        <text x="27" y="19.6" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,'Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#0D1626">PostgreSQL</text>
+      </g>
+    <g transform="translate(270,140)">
+        <rect width="115" height="30" rx="8" fill="#F1F4F9" stroke="#DCE3ED"/>
+        <circle cx="15" cy="15" r="3.6" fill="#BE185D">
+          <animate attributeName="r" values="3.6;5.2;3.6" dur="3.6s"
+            begin="2.34s" repeatCount="indefinite"/></circle>
+        <text x="27" y="19.6" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,'Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#0D1626">Drizzle ORM</text>
+      </g>
+    <g transform="translate(394,140)">
+        <rect width="129" height="30" rx="8" fill="#F1F4F9" stroke="#DCE3ED"/>
+        <circle cx="15" cy="15" r="3.6" fill="#BE185D">
+          <animate attributeName="r" values="3.6;5.2;3.6" dur="4.2s"
+            begin="2.52s" repeatCount="indefinite"/></circle>
+        <text x="27" y="19.6" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,'Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#0D1626">Cloudflare D1</text>
+      </g>
+    <g transform="translate(532,140)">
+        <rect width="81" height="30" rx="8" fill="#F1F4F9" stroke="#DCE3ED"/>
+        <circle cx="15" cy="15" r="3.6" fill="#BE185D">
+          <animate attributeName="r" values="3.6;5.2;3.6" dur="4.8s"
+            begin="2.70s" repeatCount="indefinite"/></circle>
+        <text x="27" y="19.6" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,'Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#0D1626">SQLite</text>
+      </g>
+
+    <text x="34" y="204" font-family="ui-monospace,SFMono-Regular,'SF Mono','Cascadia Code','Roboto Mono',Menlo,Consolas,monospace" font-size="10.5" letter-spacing="2"
+          font-weight="700" fill="#047857">AI</text>
+    <line x1="34" y1="214" x2="128" y2="214" stroke="#DCE3ED"/>
+    <g transform="translate(152,184)">
+        <rect width="109" height="30" rx="8" fill="#F1F4F9" stroke="#DCE3ED"/>
+        <circle cx="15" cy="15" r="3.6" fill="#047857">
+          <animate attributeName="r" values="3.6;5.2;3.6" dur="3.0s"
+            begin="3.24s" repeatCount="indefinite"/></circle>
+        <text x="27" y="19.6" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,'Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#0D1626">Claude API</text>
+      </g>
+    <g transform="translate(270,184)">
+        <rect width="115" height="30" rx="8" fill="#F1F4F9" stroke="#DCE3ED"/>
+        <circle cx="15" cy="15" r="3.6" fill="#047857">
+          <animate attributeName="r" values="3.6;5.2;3.6" dur="3.6s"
+            begin="3.42s" repeatCount="indefinite"/></circle>
+        <text x="27" y="19.6" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,'Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#0D1626">MCP servers</text>
+      </g>
+    <g transform="translate(394,184)">
+        <rect width="102" height="30" rx="8" fill="#F1F4F9" stroke="#DCE3ED"/>
+        <circle cx="15" cy="15" r="3.6" fill="#047857">
+          <animate attributeName="r" values="3.6;5.2;3.6" dur="4.2s"
+            begin="3.60s" repeatCount="indefinite"/></circle>
+        <text x="27" y="19.6" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,'Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#0D1626">Agent SDK</text>
+      </g>
+    <g transform="translate(505,184)">
+        <rect width="115" height="30" rx="8" fill="#F1F4F9" stroke="#DCE3ED"/>
+        <circle cx="15" cy="15" r="3.6" fill="#047857">
+          <animate attributeName="r" values="3.6;5.2;3.6" dur="4.8s"
+            begin="3.78s" repeatCount="indefinite"/></circle>
+        <text x="27" y="19.6" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,'Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#0D1626">Prompt eval</text>
+      </g>
+
+    <text x="34" y="248" font-family="ui-monospace,SFMono-Regular,'SF Mono','Cascadia Code','Roboto Mono',Menlo,Consolas,monospace" font-size="10.5" letter-spacing="2"
+          font-weight="700" fill="#B45309">SHIP</text>
+    <line x1="34" y1="258" x2="128" y2="258" stroke="#DCE3ED"/>
+    <g transform="translate(152,228)">
+        <rect width="81" height="30" rx="8" fill="#F1F4F9" stroke="#DCE3ED"/>
+        <circle cx="15" cy="15" r="3.6" fill="#B45309">
+          <animate attributeName="r" values="3.6;5.2;3.6" dur="3.0s"
+            begin="4.32s" repeatCount="indefinite"/></circle>
+        <text x="27" y="19.6" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,'Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#0D1626">Vercel</text>
+      </g>
+    <g transform="translate(242,228)">
+        <rect width="109" height="30" rx="8" fill="#F1F4F9" stroke="#DCE3ED"/>
+        <circle cx="15" cy="15" r="3.6" fill="#B45309">
+          <animate attributeName="r" values="3.6;5.2;3.6" dur="3.6s"
+            begin="4.50s" repeatCount="indefinite"/></circle>
+        <text x="27" y="19.6" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,'Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#0D1626">Cloudflare</text>
+      </g>
+    <g transform="translate(360,228)">
+        <rect width="81" height="30" rx="8" fill="#F1F4F9" stroke="#DCE3ED"/>
+        <circle cx="15" cy="15" r="3.6" fill="#B45309">
+          <animate attributeName="r" values="3.6;5.2;3.6" dur="4.2s"
+            begin="4.68s" repeatCount="indefinite"/></circle>
+        <text x="27" y="19.6" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,'Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#0D1626">Docker</text>
+      </g>
+    <g transform="translate(450,228)">
+        <rect width="102" height="30" rx="8" fill="#F1F4F9" stroke="#DCE3ED"/>
+        <circle cx="15" cy="15" r="3.6" fill="#B45309">
+          <animate attributeName="r" values="3.6;5.2;3.6" dur="4.8s"
+            begin="4.86s" repeatCount="indefinite"/></circle>
+        <text x="27" y="19.6" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,'Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#0D1626">Linux VPS</text>
+      </g>
+    <g transform="translate(561,228)">
+        <rect width="88" height="30" rx="8" fill="#F1F4F9" stroke="#DCE3ED"/>
+        <circle cx="15" cy="15" r="3.6" fill="#B45309">
+          <animate attributeName="r" values="3.6;5.2;3.6" dur="3.0s"
+            begin="5.04s" repeatCount="indefinite"/></circle>
+        <text x="27" y="19.6" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,'Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#0D1626">PostHog</text>
+      </g>
+  <g clip-path="url(#sc)"><rect width="900" height="280" fill="url(#sheen)"/></g>
+</svg>

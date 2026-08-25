@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="226" viewBox="0 0 440 226"
+     role="img" aria-label="kCalori — iOS calorie tracker on the App Store. Local-first, no account needed. A SwiftUI shell around a JS core in WKWebView, HealthKit sync, AI coaching via a Claude proxy. A focused redesign moved activation from 0 → ~60%.">
+  <title>kCalori</title>
+  <defs>
+    
+  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+    <circle cx="1" cy="1" r="1" fill="#1E2739" opacity=".55"/>
+  </pattern>
+    
+  <radialGradient id="cg">
+    <stop offset="0" stop-color="#22D3EE" stop-opacity=".34"/>
+    <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+  </radialGradient>
+    <linearGradient id="spine" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity=".15"/>
+    </linearGradient>
+    <clipPath id="cc"><rect x="1" y="1" width="438" height="224" rx="14"/></clipPath>
+  </defs>
+
+  <rect x=".5" y=".5" width="439" height="225" rx="14" fill="#0E131E"/>
+  <g clip-path="url(#cc)">
+    <rect width="440" height="226" fill="url(#grid)"/>
+    <ellipse cx="440" cy="0" rx="230" ry="150" fill="url(#cg)"/>
+    <rect x="0" y="0" width="4" height="226" fill="url(#spine)"/>
+  </g>
+  <rect x=".5" y=".5" width="439" height="225" rx="14" fill="none" stroke="#1E2739"/>
+
+  <text x="26" y="42" font-family="ui-monospace,SFMono-Regular,'SF Mono','Cascadia Code','Roboto Mono',Menlo,Consolas,monospace" font-size="10.2" letter-spacing="2.2"
+        font-weight="700" fill="#22D3EE">MY OWN PRODUCT · LIVE</text>
+  <text x="25" y="76" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,'Helvetica Neue',Arial,sans-serif" font-size="21" font-weight="750" fill="#E9EFF8">kCalori</text>
+  <text x="26" y="107" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,'Helvetica Neue',Arial,sans-serif" font-size="12.6" fill="#98A5B8">iOS calorie tracker on the App Store. Local-first,</text>
+  <text x="26" y="127" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,'Helvetica Neue',Arial,sans-serif" font-size="12.6" fill="#98A5B8">no account needed. A SwiftUI shell around a JS core in</text>
+  <text x="26" y="147" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,'Helvetica Neue',Arial,sans-serif" font-size="12.6" fill="#98A5B8">WKWebView, HealthKit sync, AI coaching via a Claude proxy.</text>
+  <text x="26" y="167" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,'Helvetica Neue',Arial,sans-serif" font-size="12.6" fill="#98A5B8">A focused redesign moved activation from 0 → ~60%.</text>
+  <g transform="translate(26,184)">
+      <rect width="62" height="22" rx="6" fill="#151C2B" stroke="#1E2739"/>
+      <text x="31" y="15.2" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono','Cascadia Code','Roboto Mono',Menlo,Consolas,monospace" font-size="10.2" fill="#6E7E96">SwiftUI</text>
+    </g>
+  <g transform="translate(95,184)">
+      <rect width="74" height="22" rx="6" fill="#151C2B" stroke="#1E2739"/>
+      <text x="37" y="15.2" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono','Cascadia Code','Roboto Mono',Menlo,Consolas,monospace" font-size="10.2" fill="#6E7E96">WKWebView</text>
+    </g>
+  <g transform="translate(176,184)">
+      <rect width="74" height="22" rx="6" fill="#151C2B" stroke="#1E2739"/>
+      <text x="37" y="15.2" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono','Cascadia Code','Roboto Mono',Menlo,Consolas,monospace" font-size="10.2" fill="#6E7E96">HealthKit</text>
+    </g>
+  <g transform="translate(257,184)">
+      <rect width="56" height="22" rx="6" fill="#151C2B" stroke="#1E2739"/>
+      <text x="28" y="15.2" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono','Cascadia Code','Roboto Mono',Menlo,Consolas,monospace" font-size="10.2" fill="#6E7E96">Claude</text>
+    </g>
+  
+  <g transform="translate(396,26)" opacity=".85">
+    <circle cx="12" cy="12" r="13" fill="#151C2B" stroke="#1E2739"/>
+    <path d="M8.5 15.5 L15.5 8.5 M9.8 8.5 L15.5 8.5 L15.5 14.2" stroke="#22D3EE"
+          stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <animate attributeName="opacity" values=".55;1;.55" dur="3s" repeatCount="indefinite"/>
+  </g>
+</svg>

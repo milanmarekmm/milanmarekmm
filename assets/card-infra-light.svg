@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="226" viewBox="0 0 440 226"
+     role="img" aria-label="Hosting &amp; runbooks — A shared VPS carrying ~70 client sites: deploys, PHP tuning, backups, TLS, DNS untangling and the 2am incidents. Every fix is written down as a runbook so it only has to be solved once.">
+  <title>Hosting &amp; runbooks</title>
+  <defs>
+    
+  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+    <circle cx="1" cy="1" r="1" fill="#DCE3ED" opacity=".75"/>
+  </pattern>
+    
+  <radialGradient id="cg">
+    <stop offset="0" stop-color="#047857" stop-opacity=".16"/>
+    <stop offset="1" stop-color="#047857" stop-opacity="0"/>
+  </radialGradient>
+    <linearGradient id="spine" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#047857"/>
+      <stop offset="1" stop-color="#047857" stop-opacity=".15"/>
+    </linearGradient>
+    <clipPath id="cc"><rect x="1" y="1" width="438" height="224" rx="14"/></clipPath>
+  </defs>
+
+  <rect x=".5" y=".5" width="439" height="225" rx="14" fill="#FBFCFE"/>
+  <g clip-path="url(#cc)">
+    <rect width="440" height="226" fill="url(#grid)"/>
+    <ellipse cx="440" cy="0" rx="230" ry="150" fill="url(#cg)"/>
+    <rect x="0" y="0" width="4" height="226" fill="url(#spine)"/>
+  </g>
+  <rect x=".5" y=".5" width="439" height="225" rx="14" fill="none" stroke="#DCE3ED"/>
+
+  <text x="26" y="42" font-family="ui-monospace,SFMono-Regular,'SF Mono','Cascadia Code','Roboto Mono',Menlo,Consolas,monospace" font-size="10.2" letter-spacing="2.2"
+        font-weight="700" fill="#047857">OPS</text>
+  <text x="25" y="76" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,'Helvetica Neue',Arial,sans-serif" font-size="21" font-weight="750" fill="#0D1626">Hosting &amp; runbooks</text>
+  <text x="26" y="107" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,'Helvetica Neue',Arial,sans-serif" font-size="12.6" fill="#4E5B73">A shared VPS carrying ~70 client sites: deploys, PHP</text>
+  <text x="26" y="127" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,'Helvetica Neue',Arial,sans-serif" font-size="12.6" fill="#4E5B73">tuning, backups, TLS, DNS untangling and the 2am</text>
+  <text x="26" y="147" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,'Helvetica Neue',Arial,sans-serif" font-size="12.6" fill="#4E5B73">incidents. Every fix is written down as a runbook so it</text>
+  <text x="26" y="167" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,'Helvetica Neue',Arial,sans-serif" font-size="12.6" fill="#4E5B73">only has to be solved once.</text>
+  <g transform="translate(26,184)">
+      <rect width="50" height="22" rx="6" fill="#F1F4F9" stroke="#DCE3ED"/>
+      <text x="25" y="15.2" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono','Cascadia Code','Roboto Mono',Menlo,Consolas,monospace" font-size="10.2" fill="#64728C">Linux</text>
+    </g>
+  <g transform="translate(83,184)">
+      <rect width="56" height="22" rx="6" fill="#F1F4F9" stroke="#DCE3ED"/>
+      <text x="28" y="15.2" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono','Cascadia Code','Roboto Mono',Menlo,Consolas,monospace" font-size="10.2" fill="#64728C">Docker</text>
+    </g>
+  <g transform="translate(146,184)">
+      <rect width="56" height="22" rx="6" fill="#F1F4F9" stroke="#DCE3ED"/>
+      <text x="28" y="15.2" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono','Cascadia Code','Roboto Mono',Menlo,Consolas,monospace" font-size="10.2" fill="#64728C">WP-CLI</text>
+    </g>
+  <g transform="translate(209,184)">
+      <rect width="50" height="22" rx="6" fill="#F1F4F9" stroke="#DCE3ED"/>
+      <text x="25" y="15.2" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono','Cascadia Code','Roboto Mono',Menlo,Consolas,monospace" font-size="10.2" fill="#64728C">Nginx</text>
+    </g>
+  
+</svg>
