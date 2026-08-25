@@ -102,7 +102,7 @@
 
     <text class="f-sans" x="-4" y="130" text-anchor="middle" fill="#ffffff" font-size="56" font-weight="800" letter-spacing="7" filter="url(#whiteGlow)">MILAN MAREK</text>
 
-    <text class="f-sans" x="0" y="166" text-anchor="middle" fill="#e6e9f2" font-size="16.5" font-weight="600" letter-spacing="0.4">AI Developer  ·  Solo founder of Kcalori</text>
+    <text class="f-sans" x="0" y="166" text-anchor="middle" fill="#e6e9f2" font-size="16.5" font-weight="600" letter-spacing="0.4">AI Developer  ·  Solo founder of kCalori</text>
 
     <path d="M-160 184 H160" stroke="url(#neon)" stroke-width="1.2" opacity=".5"/>
 

@@ -21,7 +21,7 @@ app the rest of the time.
 <table>
 <tr><td width="50%" valign="top">
 
-### ▲ Kcalori
+### ▲ kCalori
 **iOS calorie tracker · live on the App Store**
 
 Local-first, no account required. SwiftUI shell wrapping a JS frontend in a `WKWebView`,
@@ -71,7 +71,7 @@ without touching a component.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/milan-marek-a5b78b390"><img src="assets/link-linkedin.svg" alt="LinkedIn" height="46"></a>&nbsp;&nbsp;<a href="https://kcalori.cz"><img src="assets/link-kcalori.svg" alt="kcalori.cz" height="46"></a>
+<a href="https://www.linkedin.com/in/milan-marek-a5b78b390"><img src="assets/link-linkedin.svg" alt="LinkedIn" height="46"></a>&nbsp;&nbsp;<a href="https://kcalori.cz"><img src="assets/link-kcalori.svg" alt="kcalori.cz" height="46"></a>&nbsp;&nbsp;<a href="https://apps.apple.com/app/id6760182041?pt=128627423&ct=github&mt=8"><img src="assets/link-appstore.svg" alt="kCalori on the App Store" height="46"></a>
 
 </div>
 
