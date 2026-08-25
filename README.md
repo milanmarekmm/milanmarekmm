@@ -11,7 +11,7 @@
 Prague-based developer. I build small products **end-to-end** — schema, API, UI, deploy, store
 listing — and I treat LLMs as production components, not demos.
 
-Right now that means AI developer work at **ON BOARD** during the day, and running my own iOS
+Right now that means AI developer work for clients during the day, and running my own iOS
 app the rest of the time.
 
 <br>
@@ -33,7 +33,7 @@ A focused redesign moved activation from **0 → ~60%**.
 
 </td><td width="50%" valign="top">
 
-### ▲ Marketing sites @ ON BOARD
+### ▲ Marketing sites (client work)
 **Next.js App Router rebuilds**
 
 TypeScript, Tailwind, Drizzle + Postgres, server actions with honeypot + rate limiting,
