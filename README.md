@@ -95,9 +95,7 @@ REST, renders live previews, and hands a finished spec to sales.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a12?style=for-the-badge&logo=linkedin&logoColor=60a5fa&labelColor=0a0a12)](https://www.linkedin.com/in/milan-marek-a5b78b390)
-[![Kcalori](https://img.shields.io/badge/kcalori.cz-0a0a12?style=for-the-badge&logo=safari&logoColor=22d3ee&labelColor=0a0a12)](https://kcalori.cz)
-[![GitHub](https://img.shields.io/badge/@milanmarekmm-0a0a12?style=for-the-badge&logo=github&logoColor=f0abfc&labelColor=0a0a12)](https://github.com/milanmarekmm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a12?style=for-the-badge&logo=linkedin&logoColor=60a5fa&labelColor=0a0a12)](https://www.linkedin.com/in/milan-marek-a5b78b390) [![Kcalori](https://img.shields.io/badge/kcalori.cz-0a0a12?style=for-the-badge&logo=safari&logoColor=22d3ee&labelColor=0a0a12)](https://kcalori.cz) [![GitHub](https://img.shields.io/badge/@milanmarekmm-0a0a12?style=for-the-badge&logo=github&logoColor=f0abfc&labelColor=0a0a12)](https://github.com/milanmarekmm)
 
 </div>
 
