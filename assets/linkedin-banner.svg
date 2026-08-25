@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1584" height="396" viewBox="0 0 1584 396">
+<defs>
+  <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse">
+    <circle cx="1" cy="1" r="1" fill="#243049" opacity=".6"/></pattern>
+  <radialGradient id="o1"><stop offset="0" stop-color="#A78BFA" stop-opacity=".34"/><stop offset="1" stop-color="#A78BFA" stop-opacity="0"/></radialGradient>
+  <radialGradient id="o2"><stop offset="0" stop-color="#22D3EE" stop-opacity=".30"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+  <radialGradient id="o3"><stop offset="0" stop-color="#F472B6" stop-opacity=".26"/><stop offset="1" stop-color="#F472B6" stop-opacity="0"/></radialGradient>
+  <linearGradient id="flow" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1584" y2="0">
+    <stop offset="0" stop-color="#A78BFA"/><stop offset=".5" stop-color="#F472B6"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+</defs>
+<rect width="1584" height="396" fill="#0A0D14"/>
+<rect width="1584" height="396" fill="url(#grid)"/>
+<ellipse cx="180" cy="330" rx="470" ry="300" fill="url(#o1)"/>
+<ellipse cx="1330" cy="80" rx="470" ry="300" fill="url(#o2)"/>
+<ellipse cx="760" cy="400" rx="430" ry="230" fill="url(#o3)"/>
+<line x1="1248" y1="116" x2="1360" y2="84" stroke="#22D3EE" stroke-width="1.2" opacity=".3"/><line x1="1360" y1="84" x2="1502" y2="138" stroke="#22D3EE" stroke-width="1.2" opacity=".3"/><line x1="1248" y1="116" x2="1296" y2="194" stroke="#22D3EE" stroke-width="1.2" opacity=".3"/><line x1="1360" y1="84" x2="1422" y2="180" stroke="#22D3EE" stroke-width="1.2" opacity=".3"/><line x1="1502" y1="138" x2="1422" y2="180" stroke="#22D3EE" stroke-width="1.2" opacity=".3"/><line x1="1296" y1="194" x2="1422" y2="180" stroke="#22D3EE" stroke-width="1.2" opacity=".3"/><line x1="1296" y1="194" x2="1246" y2="284" stroke="#22D3EE" stroke-width="1.2" opacity=".3"/><line x1="1422" y1="180" x2="1368" y2="298" stroke="#22D3EE" stroke-width="1.2" opacity=".3"/><line x1="1422" y1="180" x2="1504" y2="250" stroke="#22D3EE" stroke-width="1.2" opacity=".3"/><line x1="1246" y1="284" x2="1368" y2="298" stroke="#22D3EE" stroke-width="1.2" opacity=".3"/><line x1="1368" y1="298" x2="1504" y2="250" stroke="#22D3EE" stroke-width="1.2" opacity=".3"/><line x1="1502" y1="138" x2="1504" y2="250" stroke="#22D3EE" stroke-width="1.2" opacity=".3"/><line x1="1248" y1="116" x2="1422" y2="180" stroke="#22D3EE" stroke-width="1.2" opacity=".3"/><circle cx="1248" cy="116" r="10" fill="none" stroke="#22D3EE" opacity=".35"/><circle cx="1248" cy="116" r="4" fill="#22D3EE"/><circle cx="1360" cy="84" r="10" fill="none" stroke="#A78BFA" opacity=".35"/><circle cx="1360" cy="84" r="4" fill="#A78BFA"/><circle cx="1502" cy="138" r="10" fill="none" stroke="#22D3EE" opacity=".35"/><circle cx="1502" cy="138" r="4" fill="#22D3EE"/><circle cx="1296" cy="194" r="10" fill="none" stroke="#A78BFA" opacity=".35"/><circle cx="1296" cy="194" r="4" fill="#A78BFA"/><circle cx="1422" cy="180" r="10" fill="none" stroke="#22D3EE" opacity=".35"/><circle cx="1422" cy="180" r="4" fill="#22D3EE"/><circle cx="1246" cy="284" r="10" fill="none" stroke="#A78BFA" opacity=".35"/><circle cx="1246" cy="284" r="4" fill="#A78BFA"/><circle cx="1368" cy="298" r="10" fill="none" stroke="#22D3EE" opacity=".35"/><circle cx="1368" cy="298" r="4" fill="#22D3EE"/><circle cx="1504" cy="250" r="10" fill="none" stroke="#A78BFA" opacity=".35"/><circle cx="1504" cy="250" r="4" fill="#A78BFA"/>
+<text x="402" y="140" font-family="ui-monospace,SFMono-Regular,'SF Mono','Cascadia Code','Roboto Mono',Menlo,Consolas,monospace" font-size="15" letter-spacing="4.4" font-weight="600"
+      fill="#22D3EE">AI &amp; PRODUCT DEVELOPER · PRAGUE, CZECHIA</text>
+<text x="400" y="204" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,'Helvetica Neue',Arial,sans-serif" font-size="46" font-weight="800" fill="#E9EFF8">Designs it. Builds it. Ships it.</text>
+<text x="402" y="243" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,'Helvetica Neue',Arial,sans-serif" font-size="19" fill="#98A5B8">schema → API → UI → deploy → App Store listing — same person, one pass.</text>
+<g transform="translate(402,272)">
+    <rect width="274" height="36" rx="10" fill="#151C2B" stroke="#243049"/>
+    <circle cx="19" cy="18" r="4.4" fill="#22D3EE"/>
+    <text x="33" y="23.5" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,'Helvetica Neue',Arial,sans-serif" font-size="14.5" fill="#E9EFF8">kCalori — live on the App Store</text></g><g transform="translate(688,272)">
+    <rect width="274" height="36" rx="10" fill="#151C2B" stroke="#243049"/>
+    <circle cx="19" cy="18" r="4.4" fill="#A78BFA"/>
+    <text x="33" y="23.5" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,'Helvetica Neue',Arial,sans-serif" font-size="14.5" fill="#E9EFF8">Next.js · TypeScript · Postgres</text></g><g transform="translate(974,272)">
+    <rect width="222" height="36" rx="10" fill="#151C2B" stroke="#243049"/>
+    <circle cx="19" cy="18" r="4.4" fill="#F472B6"/>
+    <text x="33" y="23.5" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,'Helvetica Neue',Arial,sans-serif" font-size="14.5" fill="#E9EFF8">Claude API in production</text></g>
+<rect x="0" y="392" width="1584" height="4" fill="url(#flow)"/>
+</svg>
