@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="440" height="226" viewBox="0 0 440 226"
-     role="img" aria-label="kCalori — iOS calorie tracker on the App Store. Local-first, no account needed. A SwiftUI shell around a JS core in WKWebView, HealthKit sync, AI coaching via a Claude proxy. A focused redesign moved activation from 0 → ~60%.">
+     role="img" aria-label="kCalori — iOS calorie tracker on the App Store. Local-first, no account needed. A SwiftUI shell around a JS core in WKWebView, HealthKit sync, AI coaching via a Claude proxy. Photo scan measured 76% → 94% on a 52-photo eval set.">
   <title>kCalori</title>
   <defs>
     
@@ -32,7 +32,7 @@
   <text x="26" y="107" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,'Helvetica Neue',Arial,sans-serif" font-size="12.6" fill="#4E5B73">iOS calorie tracker on the App Store. Local-first,</text>
   <text x="26" y="127" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,'Helvetica Neue',Arial,sans-serif" font-size="12.6" fill="#4E5B73">no account needed. A SwiftUI shell around a JS core in</text>
   <text x="26" y="147" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,'Helvetica Neue',Arial,sans-serif" font-size="12.6" fill="#4E5B73">WKWebView, HealthKit sync, AI coaching via a Claude proxy.</text>
-  <text x="26" y="167" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,'Helvetica Neue',Arial,sans-serif" font-size="12.6" fill="#4E5B73">A focused redesign moved activation from 0 → ~60%.</text>
+  <text x="26" y="167" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,'Helvetica Neue',Arial,sans-serif" font-size="12.6" fill="#4E5B73">Photo scan measured 76% → 94% on a 52-photo eval set.</text>
   <g transform="translate(26,184)">
       <rect width="62" height="22" rx="6" fill="#F1F4F9" stroke="#DCE3ED"/>
       <text x="31" y="15.2" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono','Cascadia Code','Roboto Mono',Menlo,Consolas,monospace" font-size="10.2" fill="#64728C">SwiftUI</text>
