@@ -338,7 +338,7 @@ const CARDS = {
       'iOS calorie tracker on the App Store. Local-first,',
       'no account needed. A SwiftUI shell around a JS core in',
       'WKWebView, HealthKit sync, AI coaching via a Claude proxy.',
-      'A focused redesign moved activation from 0 → ~60%.',
+      'Photo scan measured 76% → 94% on a 52-photo eval set.',
     ],
     tags: ['SwiftUI', 'WKWebView', 'HealthKit', 'Claude'],
   },

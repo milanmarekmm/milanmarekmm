@@ -32,7 +32,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="assets/card-kcalori-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/card-kcalori-light.svg">
-  <img alt="kCalori — iOS calorie tracker on the App Store. Local-first, no account needed. SwiftUI shell around a JS core in WKWebView, HealthKit sync, AI coaching via a Claude proxy." src="assets/card-kcalori-dark.svg" width="100%">
+  <img alt="kCalori — iOS calorie tracker on the App Store. Local-first, no account needed. SwiftUI shell around a JS core in WKWebView, HealthKit sync, AI coaching via a Claude proxy. Photo scan measured 76% to 94% on a 52-photo eval set." src="assets/card-kcalori-dark.svg" width="100%">
 </picture>
 </a>
 
@@ -95,6 +95,18 @@
 + Write the runbook while the incident is still fresh
 - Six months of building in private, hoping
 ```
+
+## ◇ &nbsp;What I take on — and what I don't
+
+| | |
+| :-- | :-- |
+| **Yes** | LLM features that have to survive production — cost caps, fallbacks, schema-validated output, an eval set behind the accuracy number. |
+| **Yes** | iOS end-to-end: build, store listing, subscriptions, release, the metrics afterwards. |
+| **Yes** | Operational automation and the runbooks that keep it alive. |
+| **No** | Pure frontend with no data or logic behind it — someone else's design, pixel-pushed. |
+| **No** | WordPress theme and template work. I run WordPress in production; I don't build themes for it. |
+
+<br>
 
 <details>
 <summary><b>◇ &nbsp;What I actually mean by "LLMs as production components"</b></summary>
